@@ -17,7 +17,7 @@ By Steven Taylor-Wood
 
 Harness the power of Markov chains to create interesting variations of your MIDI input
 
-Demo: 
+Demo: https://youtu.be/Aw3V5-mrWyQ
 
 ------------------------------------------------------------------------------------------------
 
